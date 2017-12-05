@@ -13,6 +13,23 @@
 .slider__center {
     width: 90%;
     float: left;
+    margin-bottom: 50px;
+}
+
+.slider__center-content-title {
+    font-weight: normal;
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #f1f1f1;
+}
+
+.slider__center-content-title-letter {
+    color: green;
+}
+
+.slider__center-content-text {
+    font-weight: normal;
+    font-size: 12px;
 }
 
 .slider__center-content {
@@ -38,3 +55,19 @@
     color: white;
 }
 
+
+.slider__center-button {
+    padding-top: 100px;
+    clear: both;
+    margin-bottom: 10px;
+}
+
+.slider__center-button-link {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #f1f1f1;
+    padding: 5px;
+    border: 1px solid white;
+    font-size: 10px;
+    font-weight: normal;
+}

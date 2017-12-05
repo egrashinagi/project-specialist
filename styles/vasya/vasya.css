@@ -7,15 +7,17 @@
 }
 
 .vasya__header {
-    padding-bottom: 100px;
+    padding-bottom: 200px;
 }
 
 .vasya__header-logo {
     float: left;
+    margin: 20px 50px;
 }
 
 .vasya__header-logo-link {
     text-decoration: none;
-    color: white;
+    color: #f4f4f4;
     vertical-align: middle;
+    padding: 10px;
 }
