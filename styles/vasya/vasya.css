@@ -1,0 +1,37 @@
+.vasya {
+    background-image: url('../../images/oboi.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    overflow: auto;
+
+    color: white;
+    /*clear: both;*/
+    /*width: 90%;*/
+}
+
+.vasya__header {
+
+}
+
+.vasya__slider {
+    text-align: center;
+}
+
+.vasya__slider-left {
+    float: left;
+    width: 5%;
+}
+
+.vasya__slider-right {
+    float: left;
+    width: 5%;
+}
+
+.vasya__slider-center {
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    margin: 0 auto;
+    width: 90%;
+    float: left;
+}

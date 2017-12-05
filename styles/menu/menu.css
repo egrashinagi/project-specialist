@@ -1,0 +1,13 @@
+.menu {
+    float: right;
+    margin: 0;
+}
+
+.menu__item {
+    display: inline-block;
+}
+
+.menu__item-link {
+    text-decoration: none;
+    color: white;
+}
