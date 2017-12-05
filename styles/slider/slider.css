@@ -1,0 +1,48 @@
+.slider {
+    text-align: center;
+    clear: both;
+}
+
+.slider__left {
+    float: left;
+    width: 5%;
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.slider__center {
+    text-align: center;
+    vertical-align: middle;
+    margin: 0 auto;
+    width: 90%;
+    float: left;
+}
+
+.slider__center-content {
+    color: white;
+    clear: both;
+    vertical-align: middle;
+}
+
+.slider__right {
+    float: left;
+    width: 5%;
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+
+}
+
+.slider__right-link {
+    text-decoration: none;
+    color: white;
+    clear: both;
+}
+
+.slider__left-link {
+    text-decoration: none;
+    color: white;
+    clear: both;
+}
+
