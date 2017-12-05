@@ -1,12 +1,10 @@
 .menu {
     float: right;
-    padding: 0;
     margin: 0;
 }
 
 .menu__item {
     display: inline-block;
-    clear: both;
 }
 
 .menu__item-link {

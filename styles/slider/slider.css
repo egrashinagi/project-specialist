@@ -1,6 +1,5 @@
 .slider {
     text-align: center;
-    clear: both;
 }
 
 .slider__left {
@@ -12,17 +11,12 @@
 }
 
 .slider__center {
-    text-align: center;
-    vertical-align: middle;
-    margin: 0 auto;
     width: 90%;
     float: left;
 }
 
 .slider__center-content {
     color: white;
-    clear: both;
-    vertical-align: middle;
 }
 
 .slider__right {
@@ -37,12 +31,10 @@
 .slider__right-link {
     text-decoration: none;
     color: white;
-    clear: both;
 }
 
 .slider__left-link {
     text-decoration: none;
     color: white;
-    clear: both;
 }
 
