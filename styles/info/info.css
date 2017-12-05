@@ -2,3 +2,21 @@
     background-color: #fff;
     padding: 50px 30px 10px 50px;
 }
+
+.info__title {
+    display: inline-block;
+    padding: 20px 20px 20px 20px;
+    margin-bottom: 30px;
+    line-height: 10px;
+    font-weight: normal;
+    font-size: 16px;
+    color: #6e6e6e;
+}
+
+.info__title-word {
+    border-bottom: 1px solid #6e6e6e;
+    padding-bottom: 5px;
+
+}
+
+
