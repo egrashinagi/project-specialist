@@ -8,18 +8,18 @@
 
 .vasya__header {
     padding-bottom: 200px;
-    padding-left: 50px;
-    padding-right: 100px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .vasya__header-logo {
     float: left;
-    margin: 20px 50px;
+    margin-top: 20px;
 }
 
 .vasya__header-logo-link {
     text-decoration: none;
     color: #f4f4f4;
     vertical-align: middle;
-    padding: 10px;
+    padding: 5px;
 }
